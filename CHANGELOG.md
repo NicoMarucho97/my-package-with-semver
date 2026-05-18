@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-18)
+
+### Features
+
+- Introduce a breaking change
+  ([`d5f7c1a`](https://github.com/NicoMarucho97/my-package-with-semver/commit/d5f7c1ac96b263f52454d6e635a268fc4ef2c71e))
+
+
 ## v1.1.0 (2026-05-18)
 
 ### Bug Fixes
